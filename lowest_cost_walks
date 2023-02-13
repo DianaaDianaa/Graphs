@@ -1,0 +1,17 @@
+graph1k.txt:
+The minimum cost path between 1 and 100 is: [1, 5, 100, 175, 222, 487, 561, 714, 799]
+The minimum cost is: 141
+The minimum cost path between 100 and 1 is: [1, 100, 229, 259, 538, 641, 854]
+The minimum cost is: 196
+
+graph10k.txt:
+The minimum cost path between 1 and 100 is: [1, 99, 100, 288, 460, 3517, 4560, 5177, 5295, 5513, 6010, 6840, 7133, 7317, 8467, 9159]
+The minimum cost is: 344
+The minimum cost path between 100 and 1 is: [1, 100, 407, 1974, 2008, 2305, 3631, 3980, 4442, 4489, 5162, 8336]
+The minimum cost is: 238
+
+graph100k.txt:
+The minimum cost path between 1 and 100 is: [1, 100, 5210, 19068, 23675, 33692, 59480, 66428, 73057, 97073, 99842]
+The minimum cost is: 304
+The minimum cost path between 100 and 1 is: [1, 100, 29215, 34650, 35260, 38155, 40962, 52472, 77467, 85636]
+The minimum cost is: 361
